@@ -1,4 +1,4 @@
-# ⌨️ Mechanical Keyboard User Manual
+# ⌨️ Readson WL84 / 84 Key Mechanical Keyboard User Manual
 
 ## 1. Multimedia & Function Keys
 | Shortcut | Function | Shortcut | Function |
